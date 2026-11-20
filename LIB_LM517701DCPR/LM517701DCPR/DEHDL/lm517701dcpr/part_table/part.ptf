@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LM517701DCPR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LM517701DCPR" (!) = "", "SOP50P640X120-39N", "Small Outline Packages", "", "", "Switching Controllers 78V wide-VIN bidirec tional 4-switch buc", "https://www.ti.com/lit/ds/symlink/lm51770.pdf?ts=1773625559046", "1.2 mm"
+END_PART
+
+END.

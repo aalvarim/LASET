@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=SMCJ60A
+PartCategory=TVS Diode (Uni-directional)
+PackageCategory=Diodes Moulded Non Polarised
+PinCount=2
+Version=1.1
+Released=2019-12-30 07:15:15
+Downloaded=2026-11-20 17:43:06
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM517701DCPR
+D Switching Controllers 78V wide-VIN bidirec tional 4-switch buc
+K
+F https://www.ti.com/lit/ds/symlink/lm51770.pdf?ts=1773625559046
+$ENDCMP
+#
+#End Doc Library

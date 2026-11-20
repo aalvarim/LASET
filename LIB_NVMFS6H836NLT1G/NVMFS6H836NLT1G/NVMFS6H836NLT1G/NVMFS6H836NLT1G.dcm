@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NVMFS6H836NLT1G
+D N-Channel 80 V 16A (Ta), 77A (Tc) 3.7W (Ta), 89W (Tc) Surface Mount 5-DFN (5x6) (8-SOFL)
+K
+F https://www.onsemi.com/download/data-sheet/pdf/nvmfs6h836nl-d.pdf
+$ENDCMP
+#
+#End Doc Library

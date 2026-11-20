@@ -1,0 +1,106 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "f32d0c1f-0b9a-4e1b-bf49-7efa07d825d6")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 25.4 28.575)
+		(size 36.83 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2a3386cc-27b6-4649-8fd5-cbbf7eebfead")
+		(property "Sheetname" "Potencia"
+			(at 25.4 27.8634 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "potencia.kicad_sch"
+			(at 25.4 45.6696 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LM51770"
+				(path "/f32d0c1f-0b9a-4e1b-bf49-7efa07d825d6"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.892 56.642)
+		(size 30.988 11.684)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "b9812482-b349-4070-9e09-9556fed4999e")
+		(property "Sheetname" "Banco_Condensadores"
+			(at 24.892 55.9304 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Banco_Condensadores.kicad_sch"
+			(at 24.892 68.9106 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LM51770"
+				(path "/f32d0c1f-0b9a-4e1b-bf49-7efa07d825d6"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

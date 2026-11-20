@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SMCJ60A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-09-03-09:06:57)
+    (mountForm default
+        (footprintRef "DIONM7959X262N")
+        (spec "System")
+    )
+)

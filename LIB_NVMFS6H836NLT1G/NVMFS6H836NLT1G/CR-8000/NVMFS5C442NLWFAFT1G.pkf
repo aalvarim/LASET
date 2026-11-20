@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "NVMFS5C442NLWFAFT1G"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "NVMFS5C442NLWFAFT1G")
+        (spec "default")
+    )
+)

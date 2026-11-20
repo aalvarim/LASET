@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NVMFS6H836NLT1G'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "onsemi", "NVMFS6H836NLT1G" (!) = "", "NVMFS5C442NLWFAFT1G", "Other", "863-NVMFS6H836NLT1G", "https://www.mouser.co.uk/ProductDetail/onsemi/NVMFS6H836NLT1G?qs=xZ%2FP%252Ba9zWqbgFUlh527L7Q%3D%3D", "N-Channel 80 V 16A (Ta), 77A (Tc) 3.7W (Ta), 89W (Tc) Surface Mount 5-DFN (5x6) (8-SOFL)", "https://www.onsemi.com/download/data-sheet/pdf/nvmfs6h836nl-d.pdf"
+END_PART
+
+END.
