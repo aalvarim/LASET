@@ -520,8 +520,8 @@
     "meta": {
       "version": 5
     },
-    "net_colors": {},
-    "netclass_assignments": {},
+    "net_colors": null,
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -707,7 +707,7 @@
         "uuid": "f32d0c1f-0b9a-4e1b-bf49-7efa07d825d6"
       }
     ],
-    "used_designators": "#PWR1-4,C1-3,CB1-19,Cout3,Cout2_3-5,D1,F1,J1,L1,M2-4,Q1,R1-2",
+    "used_designators": "#PWR1-4,C1-3,D1,CB1-19,Cout3,Cout2_3-5,F1,Q1,J1,L1,M2-4,R1-2",
     "variants": []
   },
   "sheets": [
