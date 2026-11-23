@@ -429,7 +429,7 @@
         "uuid": "4d3c6c1e-410f-4719-96a7-c043418a9d5d"
       }
     ],
-    "used_designators": "#PWR10-17,C8-9,RISNS1,TVS1,Cout2_1-3,Cin1-3,Cout1_1-2,L2,M1-4,CB1-19,Cbulk1,J1,Rcs1,RFBT1,RFBB1,U2,F1",
+    "used_designators": "#PWR8,#PWR10-34,RISNS1,TVS1,C8-15,D1,U2-8,L2,Cout1_1-2,Cin1-3,Cout2_1-3,Rcs1,RFBT1,J1-2,Cbulk1,CB1-19,RFBB1,M1-4,R7-11,F1",
     "variants": []
   },
   "sheets": [
