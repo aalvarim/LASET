@@ -430,7 +430,7 @@
         "uuid": "4d3c6c1e-410f-4719-96a7-c043418a9d5d"
       }
     ],
-    "used_designators": "TP7,#FLG1-3,CBias1,CB1-19,RISNS1,Cbulk1,J1-3,TVS1,R_10CSB1-2,F1,Cboot2-3,U1-10,D1,Rcfg1-2,Rsync1,IC1,C_MCU5,Cout2_1-3,Rnflt1,Rslope1,R1,R6-12,C_ISNS1,L2,C_UV1,Cdiff1,Rimon1,Cin1-3,Cimon1,R_3ohm1-3,RFBB1,R_101,R_UV3,C1,C3-6,C8-16,NT1-4,R_TRIG_RO1,RFBT1,Css1,#PWR8,#PWR10-43,#PWR49-67,M1-4,Cout1_1-2,Rcs1",
+    "used_designators": "R_SNB3-4,C_SNB3-4,NT_CSA1-3,#PWR8,#PWR10-43,#PWR49-67,Rcs1,M1-4,Cout1_1-2,R_UV3,Css1,RFBT1,NT1-4,R_TRIG_RO1,C_MCU5,IC1,CBias1,Rnflt1,Rcfg1-2,Rsync1,U1-10,D1,TVS1,NT_ISNSP1-2,J1-3,Cbulk1,RISNS1,CB1-19,#FLG1-3,TP7,Rslope1,R1,R6-12,C_ISNS1,L2,C_UV1,Rimon1,Cout2_1-3,R_10CSB1-2,F1,Cboot2-3,Cin1-3,Cimon1,R_3ohm1-3,NT_ISNSN1-2,NT_CSB1-3,Cdiff1,RFBB1,R_101,C1,C3-6,C8-16",
     "variants": []
   },
   "sheets": [
